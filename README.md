@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning all about the good way of life
 - 📫 How to reach me <br/>
 renopradino@gmail.com
+<br/>
 https://www.linkedin.com/in/renoalane/
 
 
