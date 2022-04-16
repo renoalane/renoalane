@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renoalane
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning all about the good way of life
-- 📫 How to reach me 
+- 📫 How to reach me <br/>
 renopradino@gmail.com
 https://www.linkedin.com/in/renoalane/
 
