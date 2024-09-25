@@ -6,7 +6,7 @@ I'm passionate about creating elegant solutions to complex problems. Always driv
 - [LinkedIn](https://www.linkedin.com/in/renoalane)
 - [Email](mailto:renopradino@gmail.com?subject=Hi&body=Hello%20Reno%2C%20i%20found%20your%20contact%20from%20your%20Github%20Account)
 
-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Reno's GitHub stats](https://github-readme-stats.vercel.app/api?username=renoalane&show_icons=true&theme=radical)
 
 ### 🛠️ Languages and Tools
