@@ -1,18 +1,10 @@
 # 👋 Hi, I'm Reno
 
-## 👩‍💻 Full Stack Developer | Software Engineer
-
 I'm passionate about creating elegant solutions to complex problems. Always driven by curiosity and a love for learning, I continually seek out new challenges and advancements in the field, ensuring my skills stay sharp in a rapidly evolving industry.
-
-### 🔭 Current Projects
-- Building a personal blog website
-
-### 🌱 I'm currently learning
-- Go programming language
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/renoalane)
-- [Twitter](https://twitter.com/klikini)
+- [Email](mailto:renopradino@gmail.com?subject=Hi&body=Hello%20Reno%2C%20i%20found%20your%20contact%20from%20your%20Github%20Account)
 
 ### 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
