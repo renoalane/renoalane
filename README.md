@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reno
+# 👋 Hi there, I'm Reno
 
 I'm passionate about creating elegant solutions to complex problems. Always driven by curiosity and a love for learning, I continually seek out new challenges and advancements in the field, ensuring my skills stay sharp in a rapidly evolving industry.
 
