@@ -18,3 +18,5 @@ I'm passionate about creating elegant solutions to complex problems. Always driv
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
+![Postmane](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![SocketIO](https://img.shields.io/badge/Socket.io-010101??style=flat-square&logo=Socket.io&logoColor=white)
