@@ -17,3 +17,4 @@ I'm passionate about creating elegant solutions to complex problems. Always driv
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
