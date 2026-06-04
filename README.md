@@ -22,3 +22,4 @@ I'm passionate about creating elegant solutions to complex problems. Always driv
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 ![Postmane](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![SocketIO](https://img.shields.io/badge/Socket.io-010101??style=flat-square&logo=Socket.io&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Gemini%20%7C%20Local%20%7C%20ChatGPT%2FClaude-blue)
