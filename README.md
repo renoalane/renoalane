@@ -9,7 +9,9 @@ I'm passionate about creating elegant solutions to complex problems. Always driv
 
 
 ### 📊 GitHub Stats
-![Reno's GitHub stats](https://github-readme-stats.vercel.app/api?username=renoalane&theme=merko&show_icons=true&hide_border=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=renoalane&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=renoalane&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=renoalane&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
