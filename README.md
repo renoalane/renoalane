@@ -42,30 +42,6 @@ Currently transitioning into **AI Integration** — combining full-stack develop
 
 ## 🚀 Featured Projects
 
-### 🤖 [Salon AI Assistant](https://github.com/renoalane/yayuk-salon) *(upgrading)*
-> AI-powered customer service chatbot for a local salon business.
-> Built with PHP + Claude API. Answers customer questions, shows schedules, and books appointments automatically.
-> **Stack:** PHP · Claude API · MySQL · CSS
-
----
-
-### 🕌 [Prayer Time API](https://github.com/renoalane/API-Prayer-Time-)
-> Public REST API returning accurate Islamic prayer times by location.
-> Powers scheduling apps and notification systems.
-> **Stack:** JavaScript · Node.js · Express · REST API design
-
----
-
-### ☁️ [Weather App](https://github.com/renoalane/weather-app)
-> Real-time weather dashboard with location search and 5-day forecast.
-> **Stack:** TypeScript · React · OpenWeatherMap API
-
----
-
-### ✅ [TodoList App](https://github.com/renoalane/TodoList)
-> Clean task management app with persistent state and filtering.
-> **Stack:** TypeScript · React
-
 ---
 
 ## 🌱 Currently Learning
